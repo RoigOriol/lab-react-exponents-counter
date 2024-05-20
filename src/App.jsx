@@ -19,7 +19,7 @@ function App () {
       <h2><em>Counter</em></h2>
   
       <Counter count={count}
-   
+    decrement={decrement} increment={increment} 
       />
 
       <br />
